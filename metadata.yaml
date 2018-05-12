@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6276
     wikipedia: http://www.tsha.utexas.edu/handbook/online/articles/view/TT/ftide.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16290#The-Bible-Book-by-BookA-Manual-for-the-Outline-Study-of-the-Bible-by-Books
 gutenberg_issued: '2005-07-13'
 gutenberg_type: Text
 identifiers:
